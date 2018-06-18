@@ -36,11 +36,12 @@ function johnLennonFacts(array){
   var i = 0;
   while(i<array.length){
     myString = array[i] + "!!!";
-    array2.push(myString)
-    i++
+    array2.push(myString);
+    i++;
   }
-
-  }
+ return array2;
+  };
+  
 }
 
   describe('iLoveTheBeatles', function() {
