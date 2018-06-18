@@ -9,6 +9,7 @@ function theBeatlesPlay(array1, array2){
   var array3 = [];
   var myString;
   for (let i = 0; i<array1.length;i++){
+    myString = array1[i] + " plays "+ array2[i];
     
   }
 }
