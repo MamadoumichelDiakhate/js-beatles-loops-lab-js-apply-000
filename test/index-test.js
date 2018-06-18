@@ -34,6 +34,7 @@ function johnLennonFacts(array){
   var myString;
   var array2 = [];
   var i = 0;
+  
 }
 
   describe('iLoveTheBeatles', function() {
