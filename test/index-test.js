@@ -7,7 +7,7 @@
   });*/
 function theBeatlesPlay(array1, array2){
   var array3 = [];
-  
+  var myString;
 }
   describe('johnLennonFacts', function(){
     it("returns an array of strings with exclamation points", function() {
