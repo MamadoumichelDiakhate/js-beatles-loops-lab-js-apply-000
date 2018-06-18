@@ -31,7 +31,7 @@ function theBeatlesPlay(array1, array2){
     });
   });*/
 function johnLennonFacts(array){
-  
+  var myString;
 }
 
   describe('iLoveTheBeatles', function() {
