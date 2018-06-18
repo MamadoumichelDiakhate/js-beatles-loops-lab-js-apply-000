@@ -61,5 +61,5 @@ function iLoveTheBeatles (num){
     myArray.push("I love the Beatles!")
     num--;
   }while(num>=0 && num<8)
-  
+  return myArray
 }
