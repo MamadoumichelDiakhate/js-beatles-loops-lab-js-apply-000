@@ -12,8 +12,9 @@ function theBeatlesPlay(array1, array2){
     myString = array1[i] + " plays "+ array2[i];
     array3.push(myString);
   }
-  
+  return array3
 }
+
   describe('johnLennonFacts', function(){
     it("returns an array of strings with exclamation points", function() {
       expect(johnLennonFacts([
