@@ -35,6 +35,7 @@ function johnLennonFacts(array){
   var array2 = [];
   var i = 0;
   while(i<array.length){
+    myString = array[i] + "!!!";
     
   }
 }
