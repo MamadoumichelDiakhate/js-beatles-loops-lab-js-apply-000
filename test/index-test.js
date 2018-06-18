@@ -32,6 +32,8 @@ function theBeatlesPlay(array1, array2){
   });*/
 function johnLennonFacts(array){
   var myString;
+  var array2 = [];
+  
 }
 
   describe('iLoveTheBeatles', function() {
