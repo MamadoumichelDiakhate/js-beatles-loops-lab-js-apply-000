@@ -8,6 +8,9 @@
 function theBeatlesPlay(array1, array2){
   var array3 = [];
   var myString;
+  for (let i = 0; i<array1.length;i++){
+    
+  }
 }
   describe('johnLennonFacts', function(){
     it("returns an array of strings with exclamation points", function() {
