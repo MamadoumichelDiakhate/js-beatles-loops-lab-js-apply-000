@@ -40,9 +40,9 @@ function johnLennonFacts(array){
     i++;
   }
  return array2;
-  };
   
-};
+  
+}
 
 /*describe('iLoveTheBeatles', function() {
     it("returns an array of 'I love the Beatles!' 8 times when passed the parameter 7 ", function() {
